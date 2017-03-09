@@ -1,4 +1,3 @@
 # hello-world
 initial respository
-this is my first time trying to use GitHub
-where did my other change go?
+this is first attempt to use GitHub
