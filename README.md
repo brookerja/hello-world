@@ -1,3 +1,4 @@
 # hello-world
 initial respository
-where did my change go
+this is my first time trying to use GitHub
+where did my other change go?
