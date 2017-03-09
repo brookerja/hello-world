@@ -1,3 +1,3 @@
 # hello-world
 initial respository
-this is firt attempt to use GitHub
+this is first attempt to use GitHub
